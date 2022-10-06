@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fruits Fresh &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress-6.0.1/wordpress/product-category/fruits-fresh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://caothephu.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 05 Oct 2022 17:24:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://caothephu.github.io/mywordpress/wp-content/uploads/2022/09/logo123website-1.png</url>
+	<title>Fruits Fresh &#8211; My wordpress</title>
+	<link>https://caothephu.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Concord seedless grape</title>
+		<link>https://caothephu.github.io/mywordpress/product/concord-seedless-grape/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/concord-seedless-grape/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 17:06:40 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=870</guid>
+
+					<description><![CDATA[Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis.  Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p class="desc">Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/concord-seedless-grape/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Green grape clipart</title>
+		<link>https://caothephu.github.io/mywordpress/product/green-grape-clipart/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/green-grape-clipart/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 17:01:56 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=869</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p class="desc">Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/green-grape-clipart/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Orange</title>
+		<link>https://caothephu.github.io/mywordpress/product/orange/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/orange/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 16:45:22 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=852</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/orange/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>An orange a day</title>
+		<link>https://caothephu.github.io/mywordpress/product/an-orange-a-day/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/an-orange-a-day/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 16:42:10 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=849</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.
+
+</div>
+<ul class="list-inline-block wrap-qty-extra">
+ 	<li>
+<div class="mb_detail-qty"><form class="cart" action="https://fruitshop.7uptheme.net/product/an-orange-a-day/" enctype="multipart/form-data" method="post">
+<div class="quantity detail-qty"></div>
+</form></div></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/an-orange-a-day/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple</title>
+		<link>https://caothephu.github.io/mywordpress/product/apple/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/apple/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 16:22:56 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=838</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/apple/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Green cabbage</title>
+		<link>https://caothephu.github.io/mywordpress/product/green-cabbage/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/green-cabbage/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 16:08:56 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=828</guid>
+
+					<description><![CDATA[Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/green-cabbage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chili garlic</title>
+		<link>https://caothephu.github.io/mywordpress/product/chili-garlic/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/chili-garlic/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 16:05:30 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=827</guid>
+
+					<description><![CDATA[Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/chili-garlic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Avocado</title>
+		<link>https://caothephu.github.io/mywordpress/product/avocado/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/avocado/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 15:58:31 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=819</guid>
+
+					<description><![CDATA[We applaud their efforts, but you don’t have to commit to dumpster-diving to live a foraging-friendly lifestyle. One of the best ways to incorporate some freeganism into your life is to take advantage of the wild fruits in your area.]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/avocado/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Clean fresh fruit</title>
+		<link>https://caothephu.github.io/mywordpress/product/clean-fresh-fruit/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/clean-fresh-fruit/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 15:48:36 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=803</guid>
+
+					<description><![CDATA[Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<h2>Description</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/clean-fresh-fruit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fruit juice</title>
+		<link>https://caothephu.github.io/mywordpress/product/fruit-juice/</link>
+					<comments>https://caothephu.github.io/mywordpress/product/fruit-juice/#respond</comments>
+		
+		<dc:creator><![CDATA[CaoThePhu]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 15:46:30 +0000</pubDate>
+				<guid isPermaLink="false">https://caothephu.github.io/mywordpress/?post_type=product&#038;p=810</guid>
+
+					<description><![CDATA[Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.]]></description>
+										<content:encoded><![CDATA[<h2>Description</h2>
+<h2>Description</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://caothephu.github.io/mywordpress/product/fruit-juice/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
