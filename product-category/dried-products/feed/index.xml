@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress-6.0.1/wordpress/product-category/dried-products/feed/" rel="self" type="application/rss+xml" />
 	<link>https://caothephu.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 05 Oct 2022 17:21:42 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Oct 2022 07:18:19 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,7 +39,6 @@
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
 										<content:encoded><![CDATA[<h2>Description</h2>
 <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
-<p class="desc">
 <p class="desc">Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
 ]]></content:encoded>
 					
